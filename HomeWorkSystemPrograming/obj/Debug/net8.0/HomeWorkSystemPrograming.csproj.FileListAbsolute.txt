@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\bin\Debug\net8.0\HomeWorkSystemPrograming.exe
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\bin\Debug\net8.0\HomeWorkSystemPrograming.deps.json
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\bin\Debug\net8.0\HomeWorkSystemPrograming.runtimeconfig.json
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\bin\Debug\net8.0\HomeWorkSystemPrograming.dll
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\bin\Debug\net8.0\HomeWorkSystemPrograming.pdb
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.dll
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\refint\HomeWorkSystemPrograming.dll
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.pdb
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\HomeWorkSystemPrograming.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HomeWorkSystemPrograming\HomeWorkSystemPrograming\obj\Debug\net8.0\ref\HomeWorkSystemPrograming.dll
